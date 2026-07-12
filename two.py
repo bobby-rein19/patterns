@@ -1,8 +1,5 @@
-#fhgshdhguesfhuihfduihuifuihfsiuhfshiuuhuireoi8ueioriouiogtugt
-x=int(input("hii"))
-x+=x
-print(x)
-#LO
-#kdifjgit add two.py
-
-#xfvnjkdnfknvk dnkxfnvck ndnfvc ndkjnxfcvn kdnkxcnv kdfv nnd jkfknvjkdnjkfxnvjkndkf vdjnfkjx vjkdn 
+def p2(n):
+    for i in range(n):
+        print("*"*(i+1))
+n=int(input("enter the number "))
+p2(n)
