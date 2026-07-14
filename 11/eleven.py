@@ -7,6 +7,6 @@
             start = 1 - start
         print(row)
 
-if __name__ == "__main__":
-    N = int(input("enter your number "))
-    pattern11(N)
+
+N = int(input("enter your number "))
+pattern11(N)
