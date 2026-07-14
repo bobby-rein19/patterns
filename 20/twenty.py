@@ -1,4 +1,4 @@
-def pattern20(n):
+def P20(n):
     spaces = 2 * n - 2
 
     for i in range(1, 2 * n):
@@ -15,4 +15,4 @@ def pattern20(n):
 
 
 N = int(input("please enter the number:"))
-pattern20(N)
+P20(N)
