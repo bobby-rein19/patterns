@@ -1,4 +1,4 @@
-def pattern19(N):
+def P9(N):
     iniS = 0
 
     for i in range(N):
@@ -17,4 +17,4 @@ def pattern19(N):
 
 
 N = int(input("please enter the number:"))
-pattern19(N)
+P9(N)
