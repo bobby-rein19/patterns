@@ -1,4 +1,4 @@
-def pattern5(N ):
+def P5(N ):
         
         for i in range(N):
             for j in range(N, i, -1):
@@ -7,4 +7,4 @@ def pattern5(N ):
             print()
 
 N=int(input("enter your number"))
-pattern5(N)
+P5(N)
