@@ -1,4 +1,4 @@
-def pattern22(n):
+def P22(n):
     for i in range(2 * n - 1):
         for j in range(2 * n - 1):
             top = i
@@ -13,4 +13,4 @@ def pattern22(n):
 
 
 N = int(input("please enter the number:"))
-pattern22(N)
+P22(N)
