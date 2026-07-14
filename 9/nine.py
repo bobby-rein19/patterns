@@ -1,9 +1,17 @@
-def pattern9(N):
-    for i in range(1, N + 1):
-        for j in range(1, i + 1):
-            print(i, end=" ")
-        print()
+def erect_pyramid(N):
+    for i in range(N):
+        print(" " * (N - i - 1), end="")
+        print("*" * (2 * i + 1), end="")
+        print(" " * (N - i - 1))
 
 
-N = int(input("please enter the number:"))
-pattern9(N)
+def inverted_pyramid(N):
+    for i in range(N):
+        print(" " * i, end="")
+        print("*" * (2 * N - (2 * i + 1)), end="")
+        print(" " * i)
+
+
+N=int(input("Enter the number of rows for the pyramid: "))
+erect_pyramid(N)
+inverted_pyramid(N)
