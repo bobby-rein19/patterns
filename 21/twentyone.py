@@ -1,4 +1,4 @@
-def pattern21(n):
+def P21(n):
     for i in range(n):
         for j in range(n):
             if i == 0 or j == 0 or i == n - 1 or j == n - 1:
@@ -10,4 +10,4 @@ def pattern21(n):
 
 
 N = int(input("please enter the number:"))
-pattern21(N)
+P21(N)
