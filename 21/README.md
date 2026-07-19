@@ -8,4 +8,5 @@ In this pattern, we create a square outline (hollow square). The border is fille
 
 Time Complexity: O(N²), because nested loops iterate through N² elements.
 
-Space Complexity: O(1), as only loop variables are used.
+Space Complexity: O(1),
+as only loop variables are used.
