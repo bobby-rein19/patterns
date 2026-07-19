@@ -7,4 +7,5 @@ In this pattern, we create an inverted letter triangle. Each row starts from A a
 
 Time Complexity: O(N²), because nested loops iterate through triangular elements.
 
+
 Space Complexity: O(1), as only loop variables are used.
