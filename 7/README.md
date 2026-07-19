@@ -8,4 +8,5 @@ In this pattern, we form a pyramid of stars. Each row contains increasing stars 
 
 Time Complexity: O(N²), since we have two nested loops iterating through triangular elements.
 
+
 Space Complexity: O(1), as only loop variables are used.
