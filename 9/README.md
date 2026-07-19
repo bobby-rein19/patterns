@@ -7,4 +7,5 @@ In this pattern, we print a triangle of repeated numbers. Each row i prints the 
 
 Time Complexity: O(N²), because nested loops iterate through triangular elements.
 
+
 Space Complexity: O(1), as only loop variables are used.
