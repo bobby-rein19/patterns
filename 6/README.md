@@ -6,4 +6,5 @@ This pattern looks similar to an inverted right-angled triangle, but instead of 
 4.After finishing each row, print a newline.
 
 Time Complexity: O(N²), because nested loops iterate across the triangular number of elements.  
+
 Space Complexity: O(1), as no extra data structures are used.
