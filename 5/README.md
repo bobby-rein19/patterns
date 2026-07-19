@@ -6,4 +6,5 @@ Print a star (\*) in each iteration of the inner loop.
 After finishing each row, print a newline to move to the next row.
 
 Time Complexity: O(N²), since two nested loops are used.  
+
 Space Complexity: O(1), as no extra data structures are needed.
