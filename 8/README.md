@@ -7,4 +7,5 @@ In this pattern, we print a number triangle where each row contains numbers star
 
 Time Complexity: O(N²), because nested loops iterate through triangular elements.
 
+
 Space Complexity: O(1), as only loop variables are used.
