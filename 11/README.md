@@ -7,4 +7,5 @@ In this pattern, we create a binary alternating triangle. Each row contains alte
 
 Time Complexity: O(N²), because nested loops iterate through triangular elements.
 
+
 Space Complexity: O(1), as only loop variables are used.
