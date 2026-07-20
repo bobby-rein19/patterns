@@ -8,3 +8,4 @@ In this pattern, we create a hollow diamond shape. The upper half has decreasing
 Time Complexity: O(N²), because nested loops iterate through O(N²) elements.
 
 Space Complexity: O(1), as only loop variables are used.
+
