@@ -7,4 +7,5 @@ In this pattern, instead of printing increasing numbers from 1 to i in each row,
 
 Time Complexity: O(N²), because there are two nested loops: the outer loop for rows and the inner loop for printing numbers.
 
+
 Space Complexity: O(1) as only loop variables are used.
