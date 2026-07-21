@@ -9,3 +9,4 @@ In this pattern, we create a diamond outline using stars. The diamond grows from
 Time Complexity: O(N²), because nested loops iterate through O(N²) elements.
 
 Space Complexity: O(1), as only loop variables are used.
+
