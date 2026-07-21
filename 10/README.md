@@ -7,6 +7,5 @@ In this pattern, we create a diamond shape using stars. The number of stars incr
 
 Time Complexity: O(N²), because we print approximately N² total characters.
 
-
 Space Complexity: O(1), as only loop variables are used.
 
