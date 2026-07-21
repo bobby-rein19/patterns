@@ -7,6 +7,5 @@ In this pattern, we create a letter triangle where each row contains letters sta
 
 Time Complexity: O(N²), because nested loops iterate through triangular elements.
 
-
 Space Complexity: O(1), as only loop variables are used.
 
