@@ -8,6 +8,5 @@ In this pattern, we create a number triangle where consecutive numbers are print
 
 Time Complexity: O(N²), because nested loops iterate through triangular elements.
 
-
 Space Complexity: O(1), as only loop variables and a counter are used.
 
