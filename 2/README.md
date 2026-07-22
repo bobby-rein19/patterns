@@ -6,3 +6,4 @@ This is one of the simplest star patterns. We need to form a right-angled triang
 4.After finishing the stars of one row, move to the next line using endl.             
                                            
 Time Complexity:-
+
