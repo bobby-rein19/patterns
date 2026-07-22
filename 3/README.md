@@ -7,4 +7,5 @@ We need to print a right-angled triangle where each row contains numbers startin
 
 Time Complexity: O(N²), because the outer loop runs N times and the inner loop runs up to i times for each row.
 
+
 Space Complexity: O(1), since only loop variables are used.
