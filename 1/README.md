@@ -7,5 +7,6 @@ Intuition: The task is to print a square pattern of stars. Since the number of r
 5.After each inner loop completes, move to the next line.                                                                                   
                   
 
+
       
   
