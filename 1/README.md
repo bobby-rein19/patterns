@@ -8,5 +8,6 @@ Intuition: The task is to print a square pattern of stars. Since the number of r
                   
 
 
+
       
   
