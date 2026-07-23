@@ -10,3 +10,4 @@ Time Complexity: O(N²), because nested loops iterate across the triangular numb
 Space Complexity: O(1), as no extra data structures are used.
 
 
+
