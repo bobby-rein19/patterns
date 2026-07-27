@@ -6,6 +6,7 @@ Intuition: The task is to print a square pattern of stars. Since the number of r
 4.Print "\* " during each inner loop iteration to form the row.                                                                                                  
 5.After each inner loop completes, move to the next line.   
 
+
                                                                                 
                
 
