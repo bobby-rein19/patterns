@@ -1,4 +1,5 @@
 
+
 In this pattern, we create an inverted letter triangle. Each row starts from A and continues up to (N - i) letters.
 
 1.Run an outer loop (i) from 0 to N-1 for rows.
